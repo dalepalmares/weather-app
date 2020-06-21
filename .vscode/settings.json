@@ -1,0 +1,10 @@
+{
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "expand",
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#79ec53",
+    "terminalCursor.foreground": "#79ec53"
+  },
+  "editor.cursorWidth": 4
+}
